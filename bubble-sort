@@ -1,7 +1,7 @@
 //sorting using bubble sort
 #include <iostream>
 using namespace std;
-//bubble sort main code
+//bubble sort function
 void bubblesort(int arr[], int n)
 {
     for (int i = n; i >= 0; i--)
